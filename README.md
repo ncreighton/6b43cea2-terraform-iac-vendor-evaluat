@@ -1,2 +1,28 @@
-# 6b43cea2-terraform-iac-vendor-evaluat
-The fastest way to have a complete productivity system running today. No setup fees. No learning curve.  Mobile-optimized for Notion iOS and Android — works everywhere you work. Pre-built databases, views, and formula fields — ready to duplicate and use.  ## What's Included  - Terraform &amp; Iac Vendor Evaluation And Procurement — fully configured and
+# Terraform & IaC Vendor Evaluation and Procurement Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/7sYeVd6mX9Mwf44dI0cZn21)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/7sYeVd6mX9Mwf44dI0cZn21)
+
